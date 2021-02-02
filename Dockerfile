@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-RUN apk add --no-cache openssh-client rsync
+RUN apk add --no-cache openssh-client rsync composer
